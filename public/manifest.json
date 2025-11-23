@@ -1,0 +1,25 @@
+{
+  "short_name": "ShopSeek AI",
+  "name": "Find Products with ShopSeek AI",
+  "icons": [
+    {
+      "src": "shopseek-logo.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "shopseek-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "shopseek-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
