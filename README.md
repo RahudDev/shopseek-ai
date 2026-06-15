@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+About ShopSeek AI
+Last Updated: March 15, 2026
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to ShopSeek AI, a modern product discovery platform designed to help people find products across multiple online marketplaces quickly and efficiently.
 
-## Available Scripts
+Our goal is simple: make online shopping smarter and faster.
 
-In the project directory, you can run:
+Instead of searching the same product across many websites, ShopSeek AI helps users discover products from different marketplaces in one place.
 
-### `npm start`
+Our Mission
+Our mission is to simplify product discovery by combining modern search technology with intelligent product suggestions.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+We aim to help users:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Discover better product options
+Compare items across marketplaces
+Save time when searching online
+Access global shopping platforms more easily
+How ShopSeek AI Works
+ShopSeek AI helps users search for products and generates optimized search results across various online marketplaces.
 
-### `npm test`
+When you search for a product, our platform may:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Generate multiple search variations
+Suggest related product keywords
+Redirect you to external marketplaces
+This allows users to explore more product options and discover products more efficiently.
 
-### `npm run build`
+Marketplaces We Support
+ShopSeek AI may redirect users to major online shopping platforms, including:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Shopee
+Amazon
+Flipkart
+Lazada
+eBay
+Alibaba
+Tokopedia
+Daraz
+Please note that ShopSeek AI does not sell products, process payments, or handle transactions. All purchases are completed directly on the respective marketplace platforms.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Platform Independence
+ShopSeek AI operates as an independent product discovery platform.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+We do not operate as a marketplace, retailer, or seller, and we do not maintain affiliate partnerships with the marketplaces listed on the platform.
 
-### `npm run eject`
+Our platform exists solely to help users discover products and navigate to external shopping platforms.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Our Commitment
+We are committed to providing:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A simple and intuitive search experience
+Transparent product discovery
+Secure and reliable platform performance
+ShopSeek AI is continuously improving to help users find products faster and more efficiently.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+Thank You
+Thank you for using ShopSeek AI.
